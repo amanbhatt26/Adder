@@ -1,4 +1,4 @@
-module github.com/amanbhatt26/Adder
+module github.com/amanbhatt26/Adder/v2
 
 go 1.22.4
 
